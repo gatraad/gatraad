@@ -24,9 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gatraad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gatraad&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gatra_ad/)
