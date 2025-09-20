@@ -1,19 +1,13 @@
 # Hi there 👋, I'm Gatra
 
-🎓 Mahasiswa yang suka ngulik hal-hal baru, terutama di bidang **robotika** dan teknologi interaktif.  
-💡 Senang bikin proyek kecil-kecilan dengan Arduino, Unity, dan kadang main-main sama Computer Vision pakai OpenCV.
+🎓 Mahasiswa yang suka ngulik hal-hal baru, terutama di bidang **robotika** dan teknologi.  
+💡 Senang bikin proyek dengan Arduino, Unity, dan kadang main-main sama Computer Vision pakai OpenCV.
 
 ---
 
 ## 🚀 Tech Stack
 - **Languages:** C++, Python, C#  
 - **Tools & Frameworks:** Arduino, Unity, OpenCV  
-
----
-
-## 📊 GitHub Stats
-![Gatra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatraadiwirya&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatraadiwirya&layout=compact&theme=radical)
 
 ---
 
