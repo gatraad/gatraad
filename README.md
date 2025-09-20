@@ -18,6 +18,16 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gatraad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gatraad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gatraad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=gatraad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
 ## 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gatra_ad/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gatra-adi-wirya-898b61336/)
@@ -26,8 +36,5 @@
 
 ## ⚡ Fun Fact
 > "Aku suka robotika dan penasaran sama hal-hal baru."
-
-
----
 
 ![robot gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTAyeXRiM2JwdWs2dTBndWV6NmZuYzFicXo3bnhlcGpqaGFkZGp5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrdX1BsUBq7DkGJCCd/giphy.gif)
