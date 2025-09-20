@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Gatra
+![banner](/github-header-banner.png)
 
 🎓 Mahasiswa yang suka ngulik hal-hal baru, terutama di bidang **robotika** dan teknologi.  
 💡 Senang bikin proyek dengan Arduino, Unity, dan kadang main-main sama Computer Vision pakai OpenCV.
